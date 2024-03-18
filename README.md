@@ -2,7 +2,7 @@
 
 This is Coin Market Cap developer proxy server with mocked chart data for the [`Crypto App`](https://github.com/AdrianZablocki).
 
-For starting using just run:
+For start using just run:
 
 ```bash
 npm i
